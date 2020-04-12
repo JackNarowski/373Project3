@@ -7,6 +7,6 @@ public class GraduateStudent extends Person {
     }
     public void process(){
         System.out.println("Graduate:");
-        impl.register();
+        impl.process();
     }
 }

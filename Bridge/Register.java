@@ -1,6 +1,6 @@
 class Register implements Implementor {
     @Override
-    public void register() {
+    public void process() {
         System.out.println("Registered");
     }
 }

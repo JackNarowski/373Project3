@@ -1,3 +1,3 @@
 interface Implementor {
-    abstract public void register();
+    abstract public void process();
 }
