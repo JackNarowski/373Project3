@@ -1,0 +1,4 @@
+class SubjectImpl implements Subject {
+
+
+}

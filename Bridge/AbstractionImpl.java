@@ -1,0 +1,4 @@
+class AbstractionImpl implements Abstraction  {
+
+
+}

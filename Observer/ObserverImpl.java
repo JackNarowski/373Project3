@@ -1,0 +1,4 @@
+class ObserverImpl implements Observer{
+
+
+}
