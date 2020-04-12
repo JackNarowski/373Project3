@@ -1,5 +1,7 @@
 Project 3: Implementing Patterns 1
 By: Jacob Narowski
+UML : https://drive.google.com/file/d/1eNAzaKf3JUZKoc34ndChoyyIZiVemdxy/view?usp=sharing
+
 
 My Project is split into two parts (One in each file: Bridge and Observer)
 
@@ -14,4 +16,6 @@ Observer is a check in system (represented as CheckIn).
 Bridge is a university system.
     Where there are different types of people (Student vs Graduate student)
     Both perform the function of registration, across the bridge.
+
+
 
