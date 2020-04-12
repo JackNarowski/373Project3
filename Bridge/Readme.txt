@@ -14,4 +14,3 @@ Student and Graduate Student are extensions of Person each adding their own deta
 Across the Bridge there is the Implementor which is a very basic interface for implementations to follow.
 One of this is Register. Which is where registration functions would be performed. (I just have it print for simplicity)
 
- 

@@ -11,5 +11,7 @@ As an over view:
 Observer is a check in system (represented as CheckIn).
     When the user checks in one of its observers is a VisitationRecorder (VisitationRecorder) and it gets notified each time.
 
-Bridge is ...
+Bridge is a university system.
+    Where there are different types of people (Student vs Graduate student)
+    Both perform the function of registration, across the bridge.
 
