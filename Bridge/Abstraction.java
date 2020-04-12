@@ -1,4 +1,3 @@
-class interface Abstraction {
-
+interface Abstraction {
 
 }

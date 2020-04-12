@@ -1,4 +1,4 @@
-class interface Implementor {
+interface Implementor {
 
 
 }

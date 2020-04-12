@@ -1,4 +1,3 @@
 class  ImplementorImpl implements Implementor {
 
-    
 }

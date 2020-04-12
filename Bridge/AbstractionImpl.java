@@ -1,4 +1,3 @@
 class AbstractionImpl implements Abstraction  {
 
-
 }
