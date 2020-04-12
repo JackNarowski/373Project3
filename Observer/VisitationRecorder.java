@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.time.LocalDateTime;
 
-class ObserverImpl implements Observer{
+class VisitationRecorder implements Observer{
     //Represents a Visitation Recorder as explained in the Readme
     ArrayList<LocalDateTime> visits = new ArrayList<LocalDateTime>(); //Represents record of visits
 

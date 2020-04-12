@@ -8,8 +8,8 @@ Each folder also has its own readme which goes into detail about each demo imple
 
 As an over view:
 
-Observer is a check in system (represented as SubjectImpl).
-    When the user checks in one of its observers is a VisitationRecorder (ObserverImpl) and it gets notified each time.
+Observer is a check in system (represented as CheckIn).
+    When the user checks in one of its observers is a VisitationRecorder (VisitationRecorder) and it gets notified each time.
 
 Bridge is ...
 

@@ -1,3 +1,0 @@
-class  ImplementorImpl implements Implementor {
-
-}

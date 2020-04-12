@@ -1,8 +1,8 @@
 public class Main{
     public static void main(String[] args){
         //Set up
-        SubjectImpl Checkin = new SubjectImpl();
-        ObserverImpl VisitationRecorder = new ObserverImpl();
+        CheckIn Checkin = new CheckIn();
+        VisitationRecorder VisitationRecorder = new VisitationRecorder();
         Checkin.attach(VisitationRecorder);
 
         //Run the check in method a few times to simulate multiple visits

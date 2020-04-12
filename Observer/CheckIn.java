@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class SubjectImpl implements Subject {
+class CheckIn implements Subject {
     //Represents a checkin system as explained in the Readme
     List<Observer> observers = new ArrayList<>();
 
