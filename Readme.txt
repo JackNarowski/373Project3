@@ -2,6 +2,9 @@ Project 3: Implementing Patterns 1
 By: Jacob Narowski
 UML : https://drive.google.com/file/d/1eNAzaKf3JUZKoc34ndChoyyIZiVemdxy/view?usp=sharing
 
+To run:
+javaw Main.java
+java Main
 
 My Project is split into two parts (One in each file: Bridge and Observer)
 
